@@ -1,2 +1,2 @@
 # instaTube
-InstaTube - A minimalist Youtube application which loads instantly - Originally developed by @feross 
+InstaTube - A minimalist Youtube application which loads instantly - Original concept developed by @feross 
