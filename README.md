@@ -1,10 +1,10 @@
 # instaTube
 
-                                                  What is it?
-                                                  -----------
+What it is?
+
   InstaTube is a minimalist web application which uses Youtubes Data API to fetch the videos from youtube, according to the query input and display them instantly. The youtube instant concept  [ ytinstant.com ] was originally conceptualized and developed by @feross.
   
-DEMO
+Demo
 
 www-scf.usc.edu/~vairamut/instaTube/index.html
                                 
